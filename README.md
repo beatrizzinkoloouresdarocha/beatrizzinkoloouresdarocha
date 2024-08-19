@@ -3,6 +3,7 @@ Olá, eu sou a Beatriz, programadora front-end, minhas habilidades são:
 - CSS;
 - Javascript;
 - Git;
+- React
 
 
 <!---
